@@ -168,6 +168,7 @@ addProduct=()=>{
 const style={
   Price:{
     fontSize:20,
+    font-style:bold;
     padding:10
   },
   btn:{
